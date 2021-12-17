@@ -63,6 +63,26 @@ const questionData = [
         "allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts",
     }),
   },
+  {
+    id: 8,
+    question: `explain useCallback hook?`,
+    answer: `https://dmitripavlutin.com/dont-overuse-react-usecallback/`,
+  },
+  {
+    id: 9,
+    question: `explain useMemo hook?`,
+    answer: ``,
+  },
+  {
+    id: 10,
+    question: `difference b/w useCallback & useMemo hook?`,
+    answer: ``,
+  },
+  {
+    id: 11,
+    question: `difference b/w useCallback & useMemo hook?`,
+    answer: ``,
+  },
 ];
 
 export default questionData;
